@@ -13,7 +13,7 @@ def add_item ():
     while True:
         item['name'] = str(input('Enter item name to buy (q to menu) : '))
         if item['name'].lower() == 'q':
-            break #back to menu 
+            print("to the menu") #back to menu 
         else: 
             while True:
                 try:
@@ -31,14 +31,21 @@ def add_item ():
 
 def view_item ():
     print("----- update groceries -----")
-    print(f"These are the list of your Grocery, you have: {len({items})}")
+    print(f"These are the list of your Grocery, you have: {len(items)}")
     while len(items)!= 0:
         print ("Your Groceries's list")
         for item in items:
             for key,value in item.items():
                 print(key,':',value)
-            break
-    
+        break
+    purchase = str(input("Would you like to purchase now? Yes/No "))
+    if purchase.lower() =="Yes":
+        print ("to the purchase item function") #to purchase function  
+    else:
+        edit = str(input("e if you want to update your groceries or q to menu "))
+        if edit.lower == "q":
+            print("to the menu") #menu 
+
 
 
 
