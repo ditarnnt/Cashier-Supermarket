@@ -26,12 +26,11 @@ class Transaction():
         self.keranjang.clear ()
     
     def check_order (self):
-
         if len(self.keranjang) == 0: 
-            print ("Yo have no item in order list")
+            print ("You have no item in order list")
         else:
             data = pd.DataFrame(self.keranjang).T
-            data.columns = ['item_count', 'item/price', 'Total Price']
+            data.columns = ['Quantity', 'Item/Price', 'Total Price']
             print(data.to_markdown())
         
     def delete_item (self, item_name):
