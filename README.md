@@ -121,51 +121,67 @@ python main.py
 
 # Test Case
 **Adding Item**
+
 ![1 adding item](https://user-images.githubusercontent.com/68722344/218322040-65cbcd3a-e4fa-4236-9541-d40c7d3393e3.PNG)
 
 **Cart of List Item**
+
 ![2 list item](https://user-images.githubusercontent.com/68722344/218322060-f17526ab-02af-4aaf-bd40-b64fa694ad5b.PNG)
 
 **Update Item Name**
+
 ![3 update item](https://user-images.githubusercontent.com/68722344/218322064-42c50b68-b9be-4b55-8120-755b129eced9.png)
 
 **Update Item Quantity**
+
 ![4 update quantity](https://user-images.githubusercontent.com/68722344/218322067-f5e5c6ee-cae6-4d85-ae7e-9daedd49bb69.png)
 
 **Update Item Price**
+
 ![5 update price](https://user-images.githubusercontent.com/68722344/218322073-604ffd00-10fc-4cf0-863e-7d8335a0a919.png)
 
 **Back to Starting Menu**
+
 ![6 back to 0 menu](https://user-images.githubusercontent.com/68722344/218322078-aef60021-26cd-4a99-958e-229e4592ee64.png)
 
 **List of Item**
+
 ![7 list item](https://user-images.githubusercontent.com/68722344/218322083-60bc0355-bc82-4eca-b2a7-e33ce6260e53.png)
 
 **Delete Item**
+
 ![8 delete item](https://user-images.githubusercontent.com/68722344/218322087-e1514a57-914f-4ef6-80ab-27c6e1d0598d.png)
 
 **Purchase Item - Customer input no**
+
 ![9 purchase no](https://user-images.githubusercontent.com/68722344/218322090-bce6baf7-8c0a-4a43-b539-e5f7ac7425bb.png)
 
 **Reset Cart of List**
+
 ![10 clear item](https://user-images.githubusercontent.com/68722344/218322092-7904e0b4-2e75-45fc-b386-53766ccdfa77.png)
 
 **Purchase Zero Item**
+
 ![11 purchase no item](https://user-images.githubusercontent.com/68722344/218322096-4cd270a6-e8ab-4d47-b78a-8e6cfa86f9a2.png)
 
 **Update Name of Zero Item**
+
 ![12 update item cant](https://user-images.githubusercontent.com/68722344/218322099-c4f60da8-d4c0-43bf-9bd1-8c7831c1a5f0.png)
 
 **Update Quantity of Zero Item**
+
 ![13 update quantity cant](https://user-images.githubusercontent.com/68722344/218322102-92d0b2ef-fa2c-40e4-bc37-1aafdca20749.png)
 
 **Update Price of Zero Item**
+
 ![14 update price cant](https://user-images.githubusercontent.com/68722344/218322105-9c6ba0b5-f387-49ca-830c-37f1760aafd5.png)
 
 **Delete Zero of Item**
+
 ![15 cant delete](https://user-images.githubusercontent.com/68722344/218322112-0ce995e5-7c86-4322-9212-0f1c2a87ed72.png)
 
 **Purchase cart of Item, Customer input yes**
+
 ![16 purchase yes](https://user-images.githubusercontent.com/68722344/218322117-c1707c25-5d3d-4203-84ac-69fa055ca419.png)
 
 # Further Program
